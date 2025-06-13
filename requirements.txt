@@ -1,0 +1,9 @@
+torch>=2.0
+torchvision
+numpy
+Pillow
+streamlit
+scikit-learn
+tqdm
+matplotlib
+huggingface_hub
